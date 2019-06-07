@@ -1,0 +1,10 @@
+---
+abc: '123'
+stuff: things
+an_array:
+  - val1
+  - val2
+  - val3
+
+---
+<p>Hello world! --- this should be a part of content</p>
